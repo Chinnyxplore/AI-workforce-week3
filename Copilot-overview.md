@@ -8,3 +8,4 @@ It allows access only to data one has access to.
 It relies heavily on the structure of microsoft365.
 On windows 11 by default copilot chat is seen and used.
 Copilot is as good as the Microsoft365 behind it.
+If there is no strong Identity management copilot cannot function clean in the Microsoft365 environment.
